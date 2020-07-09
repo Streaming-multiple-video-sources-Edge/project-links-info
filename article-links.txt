@@ -1,0 +1,6 @@
+Ceph
+
+Gstreammer
+
+Video stiching 
+- https://www.pyimagesearch.com/2016/01/25/real-time-panorama-and-image-stitching-with-opencv/
