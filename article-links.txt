@@ -1,4 +1,4 @@
-Ceph
+Redhat Ceph storage
 
 Gstreammer
 
